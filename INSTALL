@@ -1,0 +1,9 @@
+Building GHScoin
+
+See doc/readme-qt.rst for instructions on building GHScoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GHScoin.
+
+See doc/build-*.txt for instructions on building ghscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GHScoin.
